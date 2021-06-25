@@ -1,0 +1,2 @@
+python real_time_object_detection.py --prototxt /home/ubuntuuser/Documentos/OpenCV_course-Deep_Learning/MobileNet-SSD-master/deploy.prototxt --model /home/ubuntuuser/Documentos/OpenCV_course-Deep_Learning/MobileNet-SSD-master/mobilenet_iter_73000.caffemodel
+
